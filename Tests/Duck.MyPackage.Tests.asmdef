@@ -1,5 +1,5 @@
 {
-    "name": "DUCK.MyPackage.Tests",
+    "name": "Duck.MyPackage.Tests",
     "references": [
         "Duck.MyPackage"
     ],
